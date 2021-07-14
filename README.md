@@ -1,0 +1,2 @@
+# OpenUrlRewriter_EasyDNNUrlRuleProvider
+OpenUrlRewriter Provider for EasyDNNNews Module
